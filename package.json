@@ -1,5 +1,5 @@
 {
-  "name": "opentok-screen-sharing",
+  "name": "@bouncedinc/opentok-screen-sharing",
   "version": "1.0.33",
   "description": "OpenTok screen sharing accelerator pack",
   "main": "dist/opentok-screen-sharing.js",
@@ -28,7 +28,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/opentok/accelerator-screen-sharing-js"
+    "url": "git+https://github.com/opentok/accelerator-screen-sharing-js.git"
   },
   "devDependencies": {
     "babel-plugin-espower": "^2.4.0",
@@ -54,5 +54,9 @@
     "jquery": "^3.1.0",
     "opentok-solutions-logging": "^1.0.6",
     "underscore": "^1.8.3"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/opentok/accelerator-screen-sharing-js/issues"
+  },
+  "homepage": "https://github.com/opentok/accelerator-screen-sharing-js#readme"
 }
